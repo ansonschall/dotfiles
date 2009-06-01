@@ -18,7 +18,7 @@ if has("gui_running")
     set guioptions=m   " Show menu
     set guioptions+=e  " Use GUI tabline
     set antialias
-    "colorscheme zenburn
+    colorscheme darktango
 endif
 
 " Tabbing and indenting
